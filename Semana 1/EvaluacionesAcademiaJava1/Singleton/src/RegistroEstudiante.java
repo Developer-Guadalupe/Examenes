@@ -11,13 +11,16 @@ public class RegistroEstudiante {
     private RegistroEstudiante(String nombre) {
         //Inicializamos variable de referencia para asignar valor recibido como parámetro
         this.nombre = nombre;
+        //Inicializamos contador
         contador++;
     }
 
-    public static int getObtenerRegistros() {
+    //Creamos un metodo para retornar el contador
+    public static int getTotalRegistros() {
         return contador;
     }
 
-    public static RegistroEstudiante getInstance() {return estudiante;}
+    //Regresa registro de estudiante
+    public static RegistroEstudiante getObtenerRegistro() {return estudiante;}
 
 }
