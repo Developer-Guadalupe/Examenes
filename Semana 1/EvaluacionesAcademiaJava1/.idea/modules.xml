@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EvaluacionesAcademiaJava1.iml" filepath="$PROJECT_DIR$/EvaluacionesAcademiaJava1.iml" />
       <module fileurl="file://$PROJECT_DIR$/HerenciayPolimorfismo/HerenciayPolimorfismo.iml" filepath="$PROJECT_DIR$/HerenciayPolimorfismo/HerenciayPolimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerenciayPolimorfismoAbstracta/HerenciayPolimorfismoAbstracta.iml" filepath="$PROJECT_DIR$/HerenciayPolimorfismoAbstracta/HerenciayPolimorfismoAbstracta.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
     </modules>
   </component>
