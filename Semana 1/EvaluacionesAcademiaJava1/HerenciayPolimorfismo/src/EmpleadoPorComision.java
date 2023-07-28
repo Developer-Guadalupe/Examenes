@@ -14,7 +14,7 @@ public class EmpleadoPorComision extends TipoEmpleado{
     // Sobrescribimos el metodo, para calcular el salario de las ventas y la comision
     @Override
     public float calcularSalario() {
-        return  (ventas * comision);
+        return salarioBase +  (ventas * comision);
     }
 
 }
