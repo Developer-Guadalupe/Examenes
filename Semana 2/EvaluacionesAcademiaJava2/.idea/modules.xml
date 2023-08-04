@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InyeccionDependencia/Carreras.iml" filepath="$PROJECT_DIR$/InyeccionDependencia/Carreras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjerciciosLambdas/EjerciciosLambdas.iml" filepath="$PROJECT_DIR$/EjerciciosLambdas/EjerciciosLambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EvaluacionesAcademiaJava2.iml" filepath="$PROJECT_DIR$/.idea/EvaluacionesAcademiaJava2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Excepciones/Excepciones.iml" filepath="$PROJECT_DIR$/Excepciones/Excepciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniversidadInyeccionDependencia/UniversidadInyeccionDependencia.iml" filepath="$PROJECT_DIR$/UniversidadInyeccionDependencia/UniversidadInyeccionDependencia.iml" />
+    </modules>
+  </component>
+</project>
