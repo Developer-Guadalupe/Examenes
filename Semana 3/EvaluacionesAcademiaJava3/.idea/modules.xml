@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EvaluacionesAcademiaJava3.iml" filepath="$PROJECT_DIR$/.idea/EvaluacionesAcademiaJava3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUnit/JUnit.iml" filepath="$PROJECT_DIR$/JUnit/JUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUnit1/JUnit1.iml" filepath="$PROJECT_DIR$/JUnit1/JUnit1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream1/Stream1.iml" filepath="$PROJECT_DIR$/Stream1/Stream1.iml" />
+    </modules>
+  </component>
+</project>
