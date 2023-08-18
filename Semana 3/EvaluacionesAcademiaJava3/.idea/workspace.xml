@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a092974-e0f1-453a-a0ad-c3e95ceebb70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EvaluacionesAcademiaJava3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/JUnit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/TestJUnit5/DuplicarNumeroTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit/src/DuplicarNumero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit1/JUnit1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit1/TestJUnit5/TestTareasPorDia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUnit1/src/AsignacionTarea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream/Stream.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream/src/Alumnos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream/src/StreamAlumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream1/Stream1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream1/src/EncontrarA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CertificacionSimulacro/EvaluacionesAcademiaJava3/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CertificacionSimulacro/SimulacroCertificacion/src/DecisionStatements/Ejercicio2.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CertificacionSimulacro/SimulacroCertificacion/src/Ejercicio3.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Semana 1/EvaluacionesAcademiaJava1/HerenciayPolimorfismoAbstracta/src/BancoSmile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Semana 1/EvaluacionesAcademiaJava1/HerenciayPolimorfismoAbstracta/src/BancoSmile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +50,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "20",
-    "last_opened_file_path": "C:/Users/lenovo/Documents/Examenes/Semana 3/EvaluacionesAcademiaJava3"
+    "last_opened_file_path": "C:/Users/lenovo/Documents/Examenes/Semana 4/mockito"
   }
 }]]></component>
   <component name="RecentsManager">

@@ -6,7 +6,7 @@ public class BancoSmile {
         TipoCuentaBancaria cuenta2 = new CuentaReceptora("María Gómez", 1500);
 
         // Realizar transacciones
-        cuenta1.transaccion(1000);
+        cuenta1.transaccion(1000);wi
         cuenta2.transaccion(1000);
 
         // Mostrar informacion actualizada de las cuentas
