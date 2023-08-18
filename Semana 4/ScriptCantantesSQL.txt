@@ -1,0 +1,22 @@
+DROP DATABASE `cantantes`;
+
+CREATE DATABASE  IF NOT EXISTS `cantantes`;
+
+USE `cantantes`;
+
+DROP TABLE IF EXISTS `super_junior`;
+
+CREATE TABLE `super_junior` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `first_name` varchar(45) DEFAULT NULL,
+  `last_name` varchar(45) DEFAULT NULL,
+  `birthday` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
+
+INSERT INTO `super_junior` VALUES 
+	(1,'Choi','Si-won','7 de abril de 1986'),
+	(2,'Kim','Yesung','24 de agosto de 1984'),
+	(3,'Lee','Dong-hae','15 de octubre de 1986'),
+	(4,'Kim','Hee-chul','10 de julio de 1983'),
+	(5,'Shin','Shindong','28 de septiembre de 1985');
