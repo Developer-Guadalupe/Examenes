@@ -52,7 +52,7 @@ public class SingeDAOJpaImpl implements SingDAO {
         Super_Junior dbSing = entityManager.merge(theSing);
 
         // return the dbSing
-        return dbEmployee;
+        return dbSing;
     }
 
     @Override

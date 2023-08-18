@@ -18,13 +18,13 @@ public class CantanteRestController {
         cantanteService = theSingService;
     }
 
-    // expose "/employees" and return a list of employees
+    // expose "/sings" and return a list of sings
     @GetMapping("/sings")
     public List<Super_Junior> findAll() {
         return cantanteService.findAll();
     }
 
-    // add mapping for GET /employees/{employeeId}
+    // add mapping for GET /sings/{singId}
 
     @GetMapping("/sings/{singId}")
     public Super_Junior getEmployee(@PathVariable int singId) {
@@ -38,13 +38,11 @@ public class CantanteRestController {
         return theSing;
     }
 
-    // add mapping for POST /employees - add new employee
+    // add mapping for POST /sings - add new sing
 
     @PostMapping("/sings")
     public Super_Junior addEmployee(@RequestBody Super_Junior theSing) {
 
-        // also just in case they pass an id in JSON ... set id to 0
-        // this is to force a save of new item ... instead of update
 
         theSing.setId(0);
 
@@ -53,7 +51,7 @@ public class CantanteRestController {
         return dbSing;
     }
 
-    // add mapping for PUT /employees - update existing employee
+    // add mapping for PUT /sings - update existing sing
 
     @PutMapping("/sings")
     public Super_Junior updateEmployee(@RequestBody Super_Junior theSing) {
@@ -63,7 +61,7 @@ public class CantanteRestController {
         return dbSing;
     }
 
-    // add mapping for DELETE /employees/{employeeId} - delete employee
+    // add mapping for DELETE /sings/{singId} - delete sing
 
     @DeleteMapping("/sings/{singId}")
     public String deleteEmployee(@PathVariable int singId) {

@@ -38,30 +38,30 @@ public class SingeDAOJpaImpl implements SingDAO {
     @Override
     public Super_Junior findById(int theId) {
 
-        // get employee
+        // get sing
         Super_Junior theSing = entityManager.find(Super_Junior.class, theId);
 
-        // return employee
+        // return sing
         return theSing;
     }
 
     @Override
     public Super_Junior save(Super_Junior theSing) {
 
-        // save employee
-        Super_Junior dbEmployee = entityManager.merge(theSing);
+        // save sing
+        Super_Junior dbSing = entityManager.merge(theSing);
 
-        // return the dbEmployee
-        return dbEmployee;
+        // return the dbSing
+        return dbSing;
     }
 
     @Override
     public void deleteById(int theId) {
 
-        // find employee by id
+        // find sing by id
         Super_Junior theSing = entityManager.find(Super_Junior.class, theId);
 
-        // remove employee
+        // remove sing
         entityManager.remove(theSing);
     }
 }
